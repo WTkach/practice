@@ -2,7 +2,7 @@
 
     .data
 prompt:     .asciz "¬ведите число x: "     
-student_id: .word  17                      
+student_id: .word  19                      
 
     .text
     .globl main
